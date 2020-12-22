@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 **🌱 ABOUT ME**
-- 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸
+- 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸업
 - 2016.03 ~ 2016.08 : 카카오 검색 스팸 시스템 셀 어시스턴트 근무
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
 
 **💬 CONTACT ME**
-
+[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
