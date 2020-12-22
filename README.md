@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kimjinmi&show_icons=true)
