@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
 
 **💬 CONTACT ME**
-[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
