@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**📫 
+
+
 **🌱 ABOUT ME**
 - 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸업
 - 2016.03 ~ 2016.08 : 카카오 검색 스팸 시스템 셀 어시스턴트 근무
@@ -22,3 +25,5 @@ Here are some ideas to get you started:
 
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
