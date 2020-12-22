@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
+
 
 <!--
 **kimjinmi/kimjinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**📫 
 
 
 **🌱 ABOUT ME**
@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 - 2016.03 ~ 2016.08 : 카카오 검색 스팸 시스템 셀 어시스턴트 근무
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmi&langs_count=5&theme=tokyonight)]()
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kimjinmi&show_icons=true)
