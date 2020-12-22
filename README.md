@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**🌱 ABOUT ME**
+- 2014.03 ~ 2019.02 : SungShin Univ. Department of IT
+- 2016.03 ~ 2016.08 : KaKao Assistant
+- 2020.09 ~ 2020.12 : KOSA Education(Java development)
+
