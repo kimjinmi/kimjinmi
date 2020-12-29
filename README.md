@@ -1,5 +1,5 @@
 
-### Kim Jinmi 👋 
+### Kim Jinmi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--
 **kimjinmi/kimjinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 **:mag_right: ABOUT ME** 
+- Sortware Developer
 - 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸업
 - 2016.03 ~ 2016.08 : 카카오 검색 스팸 시스템 셀 어시스턴트 근무
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
@@ -41,6 +42,5 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
-
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmi&langs_count=5&theme=tokyonight)]()
-
+**✨Github Stats**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmi&layout=compact)]
