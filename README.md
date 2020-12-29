@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
-**✨Github Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmi&layout=compact)]
+**✨Github Stats**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjinmi&layout=compact)
