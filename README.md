@@ -1,5 +1,5 @@
 
-### (https://hits.seeyoufarm.com) Kim Jinmi ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinm%2Fhit-counter&count_bg=%23C83D95&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Kim Jinmi ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinm%2Fhit-counter&count_bg=%23C83D95&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--
 **kimjinmi/kimjinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
