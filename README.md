@@ -1,5 +1,5 @@
 
-### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinm%2Fhit-counter&count_bg=%23C83D95&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) Kim Jinmi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### (https://hits.seeyoufarm.com) Kim Jinmi [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjinm%2Fhit-counter&count_bg=%23C83D95&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--
 **kimjinmi/kimjinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 **:mag_right: ABOUT ME** 
-- Software Developer 
+- SW 개발자 
 - 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸업
 - 2016.03 ~ 2016.08 : 카카오 검색 스팸 시스템 셀 어시스턴트 근무
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
