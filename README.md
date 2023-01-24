@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - SW 개발자 
 - 2014.03 ~ 2019.02 : 성신여자대학교 IT학부 졸업
 - 2020.09 ~ 2020.12 : KOSA SW기업 채용 연계형 JAVA 개발자 양성과정 수료
-- 2021.02 ~         : 이트너스 기업부설연구소 솔루션 개발(FE/BE) 근무
+- 2021.02 ~ 　　　　 : 이트너스 기업부설연구소 솔루션 개발 근무
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jinmikim88@gmail.com)
 
 **📫Programming Languages**  
